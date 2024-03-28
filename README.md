@@ -4,7 +4,7 @@ permite que los usuarios ingresen nombres de archivos o rutas de archivos como e
 
 <h1>Use</h1>
 <span>Este codigo proporciona una simulacón de una vulnerabilidad (Web) de tipo LFI, para usarlo solo descarga el RAR 
-o clona el repostorio en tu terminal y luego ejecuta el server.py y empieza a navegar por las rutas de la web
+o clona el repositorio en tu terminal y luego ejécuta el server.py y empieza a navegar por las rutas de la web
 pasando parámetros a la url.</span>
 
 <h3>Clone repository </h3>
