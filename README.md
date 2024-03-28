@@ -13,6 +13,8 @@ pasando parámetros a la url.</span>
 
 <h3>Enter on carpet </h3>
 
+    cd Local-File-Inclusion/
+    
     cd LFI
 
 
