@@ -7,4 +7,15 @@ permite que los usuarios ingresen nombres de archivos o rutas de archivos como e
 o clona el repostorio en tu terminal y luego ejecuta el server.py y empieza a navegar por las rutas de la web
 pasando parámetros a la url.</span>
 
-       git clone 
+<h3>Clone repository </h3>
+       
+    git clone https://github.com/JosFramework/-LFI-Local-file-inclusi-n-Hacking-.git
+
+<h3>Enter on carpet </h3>
+
+    cd LFI
+
+
+<h3>Execute this server (PHP) width python</h3>
+
+    python3 server.py
