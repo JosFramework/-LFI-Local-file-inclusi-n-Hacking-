@@ -1,9 +1,6 @@
 import webbrowser
 import subprocess
 
-
-
-
 try:
     # Tu código principal aquí
     while True:
