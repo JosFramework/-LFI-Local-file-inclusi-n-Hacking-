@@ -17,7 +17,7 @@ pasando parámetros a la url.</span>
 
  <h1>Install requirements</h1>
     
-     pip3 install requirements.txt
+     pip3 install -r requirements.txt
 
 
 
