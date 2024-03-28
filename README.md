@@ -19,7 +19,9 @@ pasando parámetros a la url.</span>
     
      pip3 install -r requirements.txt
 
-
+ <h1>Install PHP</h1>
+ 
+     apt install php8.1-cli
 
 
 <h3>Execute this server (PHP) width python</h3>
