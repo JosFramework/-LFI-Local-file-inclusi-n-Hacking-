@@ -1,4 +1,1 @@
-webbrowser
-os
-subprocess
-time
+import webbrowser
