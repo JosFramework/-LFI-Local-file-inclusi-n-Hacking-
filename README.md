@@ -9,7 +9,7 @@ pasando parámetros a la url.</span>
 
 <h3>Clone repository </h3>
        
-    git clone https://github.com/JosFramework/-LFI-Local-file-inclusi-n-Hacking-.git
+    git clone https://github.com/JosFramework/Local-File-Inclusion.git
 
 <h3>Enter on carpet </h3>
 
